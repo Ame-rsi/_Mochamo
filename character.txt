@@ -1,0 +1,5 @@
+name=_Motchamo CVVC
+author=Ame_RSI(Ame_RSI@outlook.com)
+voice=Ame_RSI
+version=0.1
+image=icon.png
